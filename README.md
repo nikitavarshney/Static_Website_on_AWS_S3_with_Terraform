@@ -1,6 +1,6 @@
 # Static Website on AWS S3 with Terraform
 
-This project demonstrates how to deploy a static website using AWS S3 and Terraform. The infrastructure is defined as code using Terraform, allowing for easy provisioning and management of AWS resources.
+This project demonstrates how to deploy a static website(Portfolio) using AWS S3 and Terraform. The infrastructure is defined as code using Terraform, allowing for easy provisioning and management of AWS resources.
 
 ## Project Overview
 
